@@ -9,3 +9,5 @@ All demographic and response data contained in CoOccurringSensitivity.xlsx
 Study 2 = NIRS responses to uncomfortable sounds
 Stimulus script and NIRS analysis script included
 Raw NIRS data that includes oxy and deoxyhaemodynamic responses and event information in separate text files for each participant
+
+Project doi: 10.17605/OSF.IO/S9EYV
